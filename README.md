@@ -20,12 +20,6 @@ Fixar conceitos de Machine Learning, manipulação de dados e visualização gr�
 - Algoritmos simples de classificação
 - Códigos comentados e testados em notebooks
 
-## 📂 Estrutura
-
-- `Aulas/` – exercícios práticos em sala
-- `Trabalhos/` – notebooks com análises completas
-- `Exploracoes/` – investigações livres com datasets públicos
-
 ## 📦 Como rodar
 
 Execute os notebooks no Jupyter ou Google Colab.
